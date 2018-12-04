@@ -1,5 +1,5 @@
 # Morning
-In every morning I always need to check slack and work/persoanl emails while having my coffee, so instead each time open it manually, this is a tiny script do that work.
+In every morning of every working day I always need to check slack and work/persoanl emails while having my coffee, so instead each time open it manually, this is a tiny script do that work on Mac OS.
 
 
 ### Setup
