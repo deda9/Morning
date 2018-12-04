@@ -3,7 +3,7 @@ In every morning of every working day I always need to check slack and work/pers
 
 
 ### Setup
-1- move the morning.sh into your hope
+1- move the morning.sh into your home directory 
 ```Shell 
 mv morning.sh $HOME
 ```
