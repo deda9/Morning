@@ -16,6 +16,8 @@ alias mor="./morning.sh"
 " >> .zshrc
 ```
 
+3- to run the script, just type in your Terminal `mor`or `morning`
+
 ### TODO
 - Check if the time is working time or not to open.
 
