@@ -8,7 +8,11 @@ In every morning of every working day I always need to check slack and work/pers
 mv morning.sh $HOME
 ```
 
-2- Update the `.bash_profile` or `.zshrc` where you add an alias to run the script by appending to the file
+2- give the permission for the file
+`chmod 755 path/to/morning.sh`
+
+
+3- Update the `.bash_profile` or `.zshrc` where you add an alias to run the script by appending to the file
 ```Shell 
 echo " 
 alias morning="./morning.sh"
